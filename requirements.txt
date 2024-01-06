@@ -1,0 +1,9 @@
+pymysql
+sqlalchemy
+ipython-sql
+langchain
+langchain-experimental
+openai
+numpy
+pandas
+jupyter
