@@ -16,7 +16,7 @@ With this AI technology, We as data engineers are now a step closer in building 
 
 Here is the Entity Relation Diagram for the Chinook databases we using to do this exercise.
 
-![Alt text](image.png)
+![Alt text](sql-agents/image.png)
 
 
 # Findings and Conclusion
